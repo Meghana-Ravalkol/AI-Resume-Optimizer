@@ -255,12 +255,12 @@ Example:
 
 ## 👩‍💻 Author
 
-**Meghana Ravalkol**
 **Bharath Abbanoni**
+**Meghana Ravalkol**
 
 GitHub:  
-https://github.com/Meghana-Ravalkol
 https://github.com/Abbanoni-Bharat
+https://github.com/Meghana-Ravalkol
 
 ---
 
