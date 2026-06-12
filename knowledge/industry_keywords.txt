@@ -1,0 +1,167 @@
+SOFTWARE & ENGINEERING
+Scalable systems
+Distributed architecture
+Microservices
+System design
+Cloud-native applications
+Performance optimization
+API development
+Infrastructure automation
+High availability
+Reliability engineering
+
+ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+Large Language Models (LLMs)
+Prompt engineering
+Retrieval-Augmented Generation (RAG)
+Machine learning
+Deep learning
+Computer vision
+Natural language processing
+Model deployment
+MLOps
+AI automation
+
+DATA & ANALYTICS
+Data-driven decision making
+Business intelligence
+Predictive analytics
+Statistical analysis
+Data visualization
+ETL pipelines
+Data engineering
+Dashboard development
+Reporting automation
+Forecasting
+
+CLOUD, DEVOPS & SRE
+Cloud architecture
+Infrastructure as code
+CI/CD automation
+Containerization
+Kubernetes orchestration
+Monitoring and observability
+Disaster recovery
+Security compliance
+Site reliability
+Scalability optimization
+
+CYBER SECURITY
+Threat detection
+Incident response
+Security monitoring
+Vulnerability assessment
+Penetration testing
+Risk management
+Identity and access management
+Network security
+Compliance auditing
+Security operations
+
+PRODUCT & BUSINESS
+Product strategy
+Roadmap planning
+Stakeholder management
+Business process optimization
+Market research
+Requirements gathering
+Customer success
+Digital transformation
+Operational excellence
+Business growth
+
+MARKETING & SALES
+Brand awareness
+Customer acquisition
+Lead generation
+Search engine optimization
+Content strategy
+Campaign management
+Revenue growth
+Market positioning
+Customer engagement
+Conversion optimization
+
+FINANCE & ACCOUNTING
+Financial modeling
+Budget planning
+Forecasting
+Risk assessment
+Financial reporting
+Cost optimization
+Investment analysis
+Compliance management
+Audit readiness
+Business valuation
+
+HUMAN RESOURCES
+Talent acquisition
+Employee engagement
+Workforce planning
+Performance management
+Organizational development
+Recruitment strategy
+Training and development
+HR operations
+Employer branding
+People management
+
+DESIGN & CREATIVE
+User-centered design
+Design thinking
+Visual communication
+Brand identity
+User experience optimization
+Content creation
+Creative problem solving
+Digital storytelling
+Accessibility design
+Interaction design
+
+OPERATIONS & MANAGEMENT
+Process improvement
+Supply chain optimization
+Operational efficiency
+Resource planning
+Strategic execution
+Performance management
+Cross-functional collaboration
+Change management
+Project delivery
+Continuous improvement
+
+RESEARCH & INNOVATION
+Research methodology
+Technical documentation
+Experimental analysis
+Innovation management
+Knowledge sharing
+Problem investigation
+Data interpretation
+Scientific thinking
+Technology evaluation
+Evidence-based decision making
+
+LEADERSHIP & PROFESSIONAL SKILLS
+Leadership
+Team management
+Decision making
+Problem solving
+Strategic thinking
+Communication skills
+Collaboration
+Adaptability
+Critical thinking
+Conflict resolution
+
+GENERAL ATS KEYWORDS
+Results-oriented
+Analytical mindset
+Fast learner
+Attention to detail
+Time management
+Self-motivated
+Continuous learning
+Customer-focused
+Goal-driven
+Professional integrity

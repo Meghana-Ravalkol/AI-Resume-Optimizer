@@ -1,0 +1,325 @@
+==================================================
+RESUME TEMPLATE 1 - PROFESSIONAL
+==================================================
+
+FULL NAME
+Phone | Email | LinkedIn | GitHub/Portfolio | Location
+
+PROFESSIONAL SUMMARY
+2-4 lines summarizing experience, technical expertise, achievements, and career goals.
+
+TECHNICAL SKILLS
+- Languages:
+- Frameworks:
+- Tools:
+- Databases:
+- Cloud Platforms:
+- Other Skills:
+
+WORK EXPERIENCE
+
+Job Title | Company Name | Duration
+- Action verb + task + technology used + measurable impact.
+- Example: Improved application performance by 30% by optimizing database queries.
+- Example: Automated deployment pipelines, reducing release time by 50%.
+
+Job Title | Company Name | Duration
+- Key responsibility and impact.
+- Key responsibility and impact.
+
+PROJECTS
+
+Project Name
+- Problem statement
+- Technologies used
+- Solution implemented
+- Results/impact
+
+Project Name
+- Problem statement
+- Technologies used
+- Solution implemented
+- Results/impact
+
+EDUCATION
+Degree | University | Year | GPA (Optional)
+
+CERTIFICATIONS
+- Certification Name
+- Certification Name
+
+ACHIEVEMENTS
+- Awards
+- Hackathons
+- Publications
+
+==================================================
+
+RESUME TEMPLATE 2 - FRESHER / STUDENT
+==================================================
+
+FULL NAME
+Phone | Email | LinkedIn | GitHub | Portfolio
+
+CAREER OBJECTIVE
+Short statement describing career interests and goals.
+
+SKILLS
+- Programming Languages:
+- Frameworks:
+- Tools:
+- Soft Skills:
+
+ACADEMIC PROJECTS
+
+Project Name
+- What was built
+- Technologies used
+- Challenges solved
+- Outcome achieved
+
+Project Name
+- What was built
+- Technologies used
+- Outcome achieved
+
+INTERNSHIPS
+
+Role | Organization | Duration
+- Responsibilities
+- Contributions
+- Key learnings
+
+EDUCATION
+
+Degree | Institution | Year
+CGPA/Percentage
+
+CERTIFICATIONS
+- Course Name
+- Course Name
+
+EXTRACURRICULAR ACTIVITIES
+- Leadership roles
+- Clubs
+- Volunteering
+
+==================================================
+
+RESUME TEMPLATE 3 - SOFTWARE ENGINEER
+==================================================
+
+FULL NAME
+Phone | Email | LinkedIn | GitHub
+
+PROFESSIONAL SUMMARY
+Software Engineer with X years of experience building scalable applications using modern technologies.
+
+TECHNICAL SKILLS
+- Languages:
+- Frontend:
+- Backend:
+- Databases:
+- Cloud:
+- DevOps:
+
+EXPERIENCE
+
+Software Engineer | Company | Duration
+- Built scalable applications serving X+ users.
+- Improved system performance by X%.
+- Developed APIs and backend services.
+
+PROJECTS
+
+Project Name
+- Technologies:
+- Key Features:
+- Impact:
+
+EDUCATION
+
+CERTIFICATIONS
+
+ACHIEVEMENTS
+
+==================================================
+
+RESUME TEMPLATE 4 - DATA ANALYST / DATA SCIENTIST
+==================================================
+
+FULL NAME
+Phone | Email | LinkedIn | Portfolio
+
+PROFESSIONAL SUMMARY
+Data professional experienced in analytics, reporting, and machine learning.
+
+SKILLS
+- SQL
+- Python
+- Power BI/Tableau
+- Statistics
+- Machine Learning
+
+WORK EXPERIENCE
+
+Role | Company | Duration
+- Analyzed datasets containing X+ records.
+- Automated reporting processes.
+- Generated business insights.
+
+PROJECTS
+
+Project Name
+- Dataset used
+- Analysis performed
+- Tools used
+- Business impact
+
+EDUCATION
+
+CERTIFICATIONS
+
+ACHIEVEMENTS
+
+==================================================
+
+RESUME TEMPLATE 5 - AI / MACHINE LEARNING ENGINEER
+==================================================
+
+FULL NAME
+Phone | Email | LinkedIn | GitHub
+
+PROFESSIONAL SUMMARY
+AI Engineer specializing in LLMs, machine learning, and intelligent automation.
+
+TECHNICAL SKILLS
+- Languages:
+- ML Frameworks:
+- AI Tools:
+- Databases:
+- Cloud:
+
+EXPERIENCE
+
+Role | Company | Duration
+- Developed ML models.
+- Improved prediction accuracy by X%.
+- Deployed AI systems into production.
+
+PROJECTS
+
+Project Name
+- Problem Statement
+- Dataset
+- Model Used
+- Results
+
+RESEARCH
+- Research papers
+- Publications
+
+CERTIFICATIONS
+
+ACHIEVEMENTS
+
+==================================================
+
+RESUME TEMPLATE 6 - PRODUCT MANAGER
+==================================================
+
+FULL NAME
+Phone | Email | LinkedIn
+
+PROFESSIONAL SUMMARY
+Product Manager experienced in product strategy, user research, and execution.
+
+CORE SKILLS
+- Product Strategy
+- Roadmapping
+- Analytics
+- Agile
+- Stakeholder Management
+
+EXPERIENCE
+
+Product Manager | Company | Duration
+- Defined product roadmap.
+- Increased user engagement by X%.
+- Coordinated cross-functional teams.
+
+PROJECTS
+- Product launch
+- Growth initiative
+- User acquisition campaign
+
+EDUCATION
+
+CERTIFICATIONS
+
+ACHIEVEMENTS
+
+==================================================
+
+RESUME TEMPLATE 7 - BUSINESS / FINANCE ANALYST
+==================================================
+
+FULL NAME
+Phone | Email | LinkedIn
+
+SUMMARY
+
+SKILLS
+- Excel
+- SQL
+- Financial Modeling
+- Power BI
+- Forecasting
+
+EXPERIENCE
+
+Role | Company
+- Prepared business reports.
+- Conducted market analysis.
+- Identified cost-saving opportunities.
+
+PROJECTS
+
+EDUCATION
+
+CERTIFICATIONS
+
+ACHIEVEMENTS
+
+==================================================
+
+RESUME TEMPLATE 8 - NON-TECH PROFESSIONAL
+==================================================
+
+FULL NAME
+Phone | Email | LinkedIn
+
+PROFESSIONAL SUMMARY
+
+CORE COMPETENCIES
+- Communication
+- Leadership
+- Project Coordination
+- Problem Solving
+- Team Collaboration
+
+WORK EXPERIENCE
+
+Role | Organization | Duration
+- Responsibility + impact.
+- Responsibility + impact.
+
+EDUCATION
+
+CERTIFICATIONS
+
+VOLUNTEERING
+
+ACHIEVEMENTS
+
+==================================================

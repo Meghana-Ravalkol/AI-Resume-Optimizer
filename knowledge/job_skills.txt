@@ -1,0 +1,694 @@
+SOFTWARE ENGINEER
+Python
+Java
+C++
+C#
+JavaScript
+Spring Boot
+REST APIs
+Microservices
+System Design
+Git
+Docker
+Kubernetes
+AWS
+CI/CD
+
+BACKEND DEVELOPER
+Node.js
+Express.js
+Java
+Spring Boot
+REST APIs
+GraphQL
+MongoDB
+PostgreSQL
+Redis
+JWT Authentication
+Microservices
+Docker
+
+FRONTEND DEVELOPER
+HTML
+CSS
+JavaScript
+TypeScript
+React
+Angular
+Vue.js
+Redux
+Next.js
+Responsive Design
+Accessibility
+UI Development
+
+FULL STACK DEVELOPER
+React
+Node.js
+Express.js
+MongoDB
+PostgreSQL
+REST APIs
+TypeScript
+Docker
+Git
+Authentication
+Cloud Deployment
+System Integration
+
+DEVOPS ENGINEER
+Docker
+Kubernetes
+Jenkins
+GitHub Actions
+Terraform
+Ansible
+Linux
+AWS
+Azure
+Monitoring
+CI/CD
+Infrastructure Automation
+
+SITE RELIABILITY ENGINEER
+Linux
+Kubernetes
+Prometheus
+Grafana
+Terraform
+Python
+Cloud Monitoring
+Incident Response
+Observability
+Automation
+Reliability Engineering
+Performance Tuning
+
+CLOUD ENGINEER
+AWS
+Azure
+Google Cloud
+Terraform
+Linux
+Networking
+Cloud Security
+Load Balancing
+IAM
+Disaster Recovery
+Infrastructure Management
+
+CLOUD ARCHITECT
+AWS
+Azure
+Google Cloud
+Solution Architecture
+Cloud Migration
+Terraform
+Networking
+Security Architecture
+Disaster Recovery
+Cost Optimization
+
+SOLUTIONS ARCHITECT
+System Design
+Cloud Architecture
+Microservices
+Enterprise Integration
+API Design
+AWS
+Azure
+Technical Documentation
+Stakeholder Management
+
+DATA ANALYST
+SQL
+Python
+Excel
+Power BI
+Tableau
+Data Cleaning
+Data Visualization
+Statistics
+Reporting
+Business Analysis
+Dashboard Development
+
+BI ANALYST
+Power BI
+Tableau
+SQL
+Excel
+KPI Tracking
+Business Intelligence
+Data Modeling
+Reporting
+Dashboard Design
+Analytics
+
+DATA SCIENTIST
+Python
+R
+Statistics
+Machine Learning
+Deep Learning
+Scikit-learn
+TensorFlow
+PyTorch
+Pandas
+NumPy
+Feature Engineering
+Predictive Analytics
+
+DATA ENGINEER
+Python
+SQL
+Apache Spark
+Airflow
+Hadoop
+ETL
+Data Warehousing
+AWS
+Data Pipelines
+Big Data
+Data Modeling
+
+DATABASE ADMINISTRATOR
+MySQL
+PostgreSQL
+SQL Server
+Oracle
+Database Security
+Backup & Recovery
+Performance Tuning
+Indexing
+Replication
+Database Monitoring
+
+ETL DEVELOPER
+SQL
+Python
+Informatica
+Airflow
+Data Warehousing
+ETL Pipelines
+Data Transformation
+Data Validation
+Workflow Automation
+
+AI ENGINEER
+Python
+LangChain
+LangGraph
+OpenAI API
+Vector Databases
+RAG
+Prompt Engineering
+LLMs
+Embeddings
+FastAPI
+AI Agents
+Model Evaluation
+
+MACHINE LEARNING ENGINEER
+Python
+TensorFlow
+PyTorch
+Scikit-learn
+ML Pipelines
+Feature Engineering
+Model Deployment
+Docker
+Spark
+MLOps
+
+COMPUTER VISION ENGINEER
+Python
+OpenCV
+PyTorch
+TensorFlow
+YOLO
+Image Processing
+Object Detection
+Image Classification
+Deep Learning
+
+NLP ENGINEER
+Python
+Transformers
+Hugging Face
+NLP
+Embeddings
+Vector Databases
+LangChain
+Text Processing
+LLMs
+Semantic Search
+
+PROMPT ENGINEER
+Prompt Engineering
+LLMs
+LangChain
+LangGraph
+RAG
+Evaluation Frameworks
+AI Workflows
+OpenAI API
+Few-Shot Learning
+AI Testing
+
+CYBER SECURITY ANALYST
+Network Security
+SIEM
+Threat Detection
+Risk Assessment
+Incident Response
+Vulnerability Assessment
+Security Auditing
+Linux
+Python
+
+SECURITY ENGINEER
+IAM
+SIEM
+Security Architecture
+Cloud Security
+Encryption
+Risk Management
+Compliance
+Security Audits
+Threat Modeling
+
+SOC ANALYST
+Splunk
+SIEM
+Incident Response
+Threat Intelligence
+Log Analysis
+Security Monitoring
+Network Security
+Linux
+
+PENETRATION TESTER
+Ethical Hacking
+OWASP
+Burp Suite
+Kali Linux
+Nmap
+Metasploit
+Web Security
+Vulnerability Assessment
+Network Testing
+
+QA ENGINEER
+Selenium
+TestNG
+Automation Testing
+Manual Testing
+API Testing
+JIRA
+Regression Testing
+Performance Testing
+Quality Assurance
+
+MOBILE APPLICATION DEVELOPER
+Flutter
+Dart
+Firebase
+Android
+iOS
+REST APIs
+Mobile UI Design
+Push Notifications
+App Deployment
+
+ANDROID DEVELOPER
+Kotlin
+Java
+Android SDK
+Firebase
+SQLite
+REST APIs
+MVVM
+Jetpack Components
+
+IOS DEVELOPER
+Swift
+UIKit
+SwiftUI
+Core Data
+Firebase
+REST APIs
+Xcode
+Mobile Development
+
+UI/UX DESIGNER
+Figma
+Adobe XD
+Wireframing
+Prototyping
+User Research
+Usability Testing
+Design Systems
+Interaction Design
+
+PRODUCT MANAGER
+Product Strategy
+Roadmapping
+Agile
+Scrum
+User Research
+A/B Testing
+Analytics
+Stakeholder Management
+Market Research
+
+SCRUM MASTER
+Scrum
+Agile
+JIRA
+Sprint Planning
+Team Facilitation
+Project Coordination
+Agile Coaching
+Risk Management
+
+BUSINESS ANALYST
+Requirements Gathering
+SQL
+Excel
+Business Process Modeling
+Documentation
+JIRA
+Stakeholder Management
+Agile
+
+MARKETING SPECIALIST
+SEO
+SEM
+Google Analytics
+Content Marketing
+Social Media Marketing
+Campaign Management
+Email Marketing
+Market Research
+
+SOCIAL MEDIA MANAGER
+Content Strategy
+Social Media Marketing
+Analytics
+Brand Management
+Canva
+Community Management
+Campaign Planning
+
+SEO SPECIALIST
+SEO
+Keyword Research
+Google Search Console
+Ahrefs
+SEMrush
+Technical SEO
+Link Building
+Content Optimization
+
+CONTENT WRITER
+Content Writing
+SEO
+Copywriting
+Research
+Blog Writing
+WordPress
+Editing
+Content Strategy
+
+TECHNICAL WRITER
+Technical Documentation
+API Documentation
+Markdown
+Confluence
+Knowledge Management
+Technical Communication
+Git
+
+GRAPHIC DESIGNER
+Photoshop
+Illustrator
+Figma
+InDesign
+Branding
+Visual Design
+Typography
+Creative Design
+
+VIDEO EDITOR
+Premiere Pro
+After Effects
+Video Editing
+Motion Graphics
+Audio Editing
+Storytelling
+Color Grading
+
+HR EXECUTIVE
+Recruitment
+Talent Acquisition
+Employee Relations
+HRMS
+Performance Management
+Onboarding
+Training & Development
+
+RECRUITER
+Candidate Sourcing
+Interviewing
+ATS
+LinkedIn Recruiter
+Talent Acquisition
+Recruitment Analytics
+Communication
+
+TALENT ACQUISITION SPECIALIST
+Sourcing
+Employer Branding
+ATS
+Interviewing
+Workforce Planning
+Recruitment Strategy
+HR Analytics
+
+FINANCE ANALYST
+Financial Modeling
+Forecasting
+Budgeting
+Risk Analysis
+Excel
+Power BI
+Financial Reporting
+Valuation
+
+ACCOUNTANT
+Bookkeeping
+Financial Reporting
+Tally
+Excel
+Taxation
+Accounts Payable
+Accounts Receivable
+Reconciliation
+
+AUDITOR
+Auditing
+Compliance
+Risk Assessment
+Financial Analysis
+Internal Controls
+Reporting
+Excel
+
+SALES EXECUTIVE
+Lead Generation
+CRM
+Sales Strategy
+Negotiation
+Customer Relationship Management
+Communication
+Business Development
+
+ACCOUNT MANAGER
+Account Management
+CRM
+Client Relations
+Negotiation
+Customer Success
+Business Development
+
+CUSTOMER SUCCESS MANAGER
+Customer Success
+CRM
+Customer Retention
+Onboarding
+Relationship Management
+Analytics
+SaaS
+
+CONSULTANT
+Business Analysis
+Strategy
+Problem Solving
+Process Improvement
+Presentation Skills
+Stakeholder Management
+
+MANAGEMENT CONSULTANT
+Business Strategy
+Market Analysis
+Process Optimization
+Consulting
+Financial Analysis
+Executive Communication
+
+OPERATIONS MANAGER
+Operations Management
+Supply Chain
+Process Improvement
+KPI Tracking
+Team Management
+Business Operations
+
+ENTREPRENEUR
+Business Strategy
+Leadership
+Product Management
+Sales
+Marketing
+Fundraising
+Operations
+
+STARTUP FOUNDER
+Product Strategy
+Fundraising
+Leadership
+Growth Strategy
+Business Development
+Customer Acquisition
+
+MECHANICAL ENGINEER
+CAD
+SolidWorks
+AutoCAD
+Mechanical Design
+Manufacturing
+Quality Control
+Simulation
+Product Development
+
+CIVIL ENGINEER
+AutoCAD
+Structural Analysis
+Construction Management
+Project Planning
+Site Supervision
+Material Estimation
+
+ELECTRICAL ENGINEER
+Circuit Design
+Power Systems
+Electrical Testing
+PLC
+Control Systems
+Electrical Safety
+
+ELECTRONICS ENGINEER
+PCB Design
+Embedded Systems
+Microcontrollers
+Circuit Design
+Sensors
+Hardware Testing
+
+EMBEDDED SYSTEMS ENGINEER
+C
+C++
+Embedded Linux
+RTOS
+Microcontrollers
+IoT
+Firmware Development
+
+VLSI ENGINEER
+Verilog
+SystemVerilog
+FPGA
+ASIC
+RTL Design
+Digital Electronics
+Timing Analysis
+
+ROBOTICS ENGINEER
+ROS
+Python
+C++
+Computer Vision
+Control Systems
+Sensor Fusion
+Automation
+
+INDUSTRIAL ENGINEER
+Lean Manufacturing
+Six Sigma
+Process Optimization
+Operations Management
+Quality Management
+Data Analysis
+
+BIOMEDICAL ENGINEER
+Biomedical Devices
+Signal Processing
+Sensors
+Healthcare Technology
+MATLAB
+Medical Instrumentation
+
+AEROSPACE ENGINEER
+Aerodynamics
+Flight Dynamics
+MATLAB
+CAD
+Control Systems
+Simulation
+
+BLOCKCHAIN DEVELOPER
+Solidity
+Ethereum
+Web3.js
+Smart Contracts
+Hardhat
+Blockchain Security
+DApps
+
+GAME DEVELOPER
+Unity
+C#
+Unreal Engine
+Game Design
+Multiplayer Systems
+Game Physics
+3D Graphics
+
+AR/VR DEVELOPER
+Unity
+C#
+ARKit
+ARCore
+VR Development
+3D Modeling
+Interactive Design
+
+RESEARCH ASSISTANT
+Research Methodology
+Statistics
+Python
+Data Analysis
+Literature Review
+Academic Writing
+Technical Documentation
